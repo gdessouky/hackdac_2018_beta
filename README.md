@@ -1,6 +1,6 @@
 # Hack@DAC 2018 Phase 2 Buggy SoC
 
-![](doc/PulpissimoVulnerabilities_V6.pdf)
+![](doc/Buggy_SoC.png)
 
 SoC used for the second phase of the 2018 Hack@DAC hardware security competition (https://hack-dac18.trust-sysec.com/). 
 This SoC is a modified version of the PULPissimo SoC, which was created by ETH Zurich and the
