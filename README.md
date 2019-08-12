@@ -46,6 +46,7 @@ The following bugs were inserted into the SoC:
 | 31 |GPIO is able to read/write to instruction and data cache.                                          |
 
 
+For more information on the bugs, please see doc/Bug_info.xlsx.
 
 ## Getting Started
 To install the SoC, please follow the steps listed in the PULPissimo readme (https://github.com/pulp-platform/pulpissimo/blob/master/README.md).
