@@ -2,11 +2,11 @@
 
 ![](doc/Buggy_SoC.png)
 
-SoC used for the second phase of the 2018 Hack@DAC hardware security competition (https://hack-dac18.trust-sysec.com/). 
-This SoC is a modified version of the PULPissimo SoC, which was created by ETH Zurich and the
+The SoC shown was used for the second phase of the Hack@DAC 2018 hardware security competition (https://hack-dac18.trust-sysec.com/). 
+This SoC is a modified version of the PULPissimo SoC, which was developed by ETH Zurich and the
 University of Bologna (https://github.com/pulp-platform/pulpissimo). A collobaration of researchers at Texas A&M University, 
 Technische Universität Darmstadt, and Intel expanded the PULPissimo SoC by adding additional security features and inserting 
-hardware security bugs.  
+hardware security bugs in the RTL.  
 
 ## Bugs
 The following bugs were inserted into the SoC:
@@ -46,7 +46,7 @@ The following bugs were inserted into the SoC:
 | 31 |GPIO is able to read/write to instruction and data cache.                                          |
 
 
-For more information on the bugs, please see doc/Bug_info.xlsx.
+For more information on the bugs and their locations, please see doc/Bug_info.xlsx.
 
 ## Getting Started
 To install the SoC, please follow the steps listed in the PULPissimo readme (https://github.com/pulp-platform/pulpissimo/blob/master/README.md).
